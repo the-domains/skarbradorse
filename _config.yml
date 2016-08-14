@@ -1,4 +1,3 @@
-layout_spectrum: 0.0946734577883035
 typography_spectrum: 0.9225181112997234
 color:
   brandStrength: 0.9871612107381225
@@ -6,9 +5,11 @@ color:
   saturation: 0.9782431605271995
   rhythmicContrast: 0.8513835014309734
   brandColors:
-    - '#B9121B'
-    - '#4C1B1B'
-    - '#F6E497'
-    - '#FCFAE1'
-    - '#BD8D46'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+layout_spectrum: 0.0946734577883035
 name: Skarbrador.se
+title: Skärbrädor.se
